@@ -1,0 +1,62 @@
+*.title {
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+
+
+p {
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+
+h1 {
+    text-align: center;
+    font-size: 40pt;
+    color: darkblue;
+}
+
+
+h2 {
+    color: aliceblue;
+}
+
+
+*.whitetext {
+    background-color: rgb(40, 40, 119);
+    color: aliceblue;
+}
+
+
+div#intro p {
+    text-align: center;
+    font-size: 14pt;
+}
+
+
+div#images {
+    text-align: center;
+}
+
+
+*.imagen {
+    height: 150px;
+    display: inline-block;
+    width:150px;
+    object-fit:cover;
+}
+
+
+a:before {
+    color:aliceblue;
+
+}
+
+
+a:hover{
+    color:rgb(252, 185, 161);
+}
+
+a:visited{
+    color:coral;
+}
+
+
